@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /VPN256
+bash changeip.sh
